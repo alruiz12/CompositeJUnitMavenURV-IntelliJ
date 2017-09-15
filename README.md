@@ -3,8 +3,8 @@
 Simple Java Composite pattern with [JUnit](http://junit.org/junit4/) Unit Testing build with [Maven](https://maven.apache.org/) for teaching purposes.
 
 [![Build Status](https://travis-ci.org/alruiz12/CompositeJUnitMavenURV-IntelliJ.svg?branch=master)](https://travis-ci.org/alruiz12/CompositeJUnitMavenURV-IntelliJ)
-[![codecov](https://codecov.io/gh/alruiz12/CompositeJUnitMavenURV/branch/master/graph/badge.svg)](https://codecov.io/gh/alruiz12/CompositeJUnitMavenURV)
-[![Code Health](https://landscape.io/github/alruiz12/CompositeJUnitMavenURV/master/landscape.svg?style=flat)](https://landscape.io/github/alruiz12/CompositeJUnitMavenURV/master)
+[![codecov](https://codecov.io/gh/alruiz12/CompositeJUnitMavenURV-IntelliJ/branch/master/graph/badge.svg)](https://codecov.io/gh/alruiz12/CompositeJUnitMavenURV-IntelliJ)
+[![Code Health](https://landscape.io/github/alruiz12/CompositeJUnitMavenURV-IntelliJ/master/landscape.svg?style=flat)](https://landscape.io/github/alruiz12/CompositeJUnitMavenURV-IntelliJ/master)
 
 
 ## Necessary to run the project
