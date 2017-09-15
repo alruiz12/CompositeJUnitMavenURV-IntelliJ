@@ -11,15 +11,13 @@ Simple Java Composite pattern with [JUnit](http://junit.org/junit4/) Unit Testin
 
 ### Maven
 
-Install Maven plugin (if not installed):
-
-Eclipse: Help > Eclipse Marketplace > Write "Maven" > Hit "Go" > Install "Maven Integration for Eclipse"
+Maven plugin should be installed be default, otherwise install it.
 
 ### JUnit
 
 Install JUnit:
 
-Eclipse: File > Properties > Java Build Path > Libraries > Add External Jars > plugins > org.junit_4.12 > Apply
+IntelliJ: File > Project Structure > Libraries > '+' (green add symbol) > From Maven > search "junit" > select "junit:junit:4.12" > OK
 
 
 
@@ -71,4 +69,4 @@ Create your [landscape.io](https://landscape.io/) account by signing up with git
 
 ## Create your own Maven project
 
-Eclipse: File > New > Other > Maven Project > Create simple project > Fill in Group Id and Artifact Id > Finish
+IntelliJ: File > New > Project > Maven > Next > Fill in Group Id and Artifact Id > Next > Select parent folder > Enable Auto-import in pop-up (bottom right)
