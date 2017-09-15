@@ -1,4 +1,4 @@
-# CompositeJUnitMavenURV
+# CompositeJUnitMavenURV-IntelliJ
 
 Simple Java Composite pattern with [JUnit](http://junit.org/junit4/) Unit Testing build with [Maven](https://maven.apache.org/) for teaching purposes.
 
